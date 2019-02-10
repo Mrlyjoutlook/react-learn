@@ -56,3 +56,13 @@ import styles from './index.module.css';
 ```
 
 ## css-in-js
+
+## reach-router
+
+该项目默认使用都是`react-router` 路由下来分享，`reach-router`是单独实践
+
+## `React.context` and `unstated`
+
+new context
+
+unstated

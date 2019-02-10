@@ -9,3 +9,9 @@ export const lazy = {
   name: 'lazy',
   path: '/lazy'
 };
+
+export const unstated = {
+  key: 'unstated',
+  name: 'unstated',
+  path: '/unstated'
+};

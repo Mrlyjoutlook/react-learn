@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export default function Home() {
+export default function HomeReact() {
   return (
     <div>
       <ul>
@@ -10,6 +10,9 @@ export default function Home() {
         </li>
         <li>
           <Link to="/lazy">lazy</Link>
+        </li>
+        <li>
+          <Link to="/unstated">unstated</Link>
         </li>
       </ul>
     </div>

@@ -3,6 +3,8 @@ import styles from './index.module.css';
 
 class Container extends Component {
   render() {
+    console.log('css-modules');
+
     return (
       <div className={styles.container}>
         <div>css-modules</div>
